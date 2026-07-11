@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/typeflow.db
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Environment
+.env
+.env.local
+frontend/.env.local
+backend/.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
